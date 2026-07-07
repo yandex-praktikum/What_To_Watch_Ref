@@ -8,7 +8,6 @@ from sqlalchemy import Integer, String, Text, DateTime
     "path",
     (
         "settings.py",
-        ".env",
         "opinions_app/__init__.py",
         "opinions_app/cli_commands.py",
         "opinions_app/error_handlers.py",
